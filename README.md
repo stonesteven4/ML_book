@@ -1,2 +1,2 @@
 # ML_book
-Store scripts for machine learning
+Store scripts for machine learningc
